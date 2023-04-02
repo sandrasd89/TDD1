@@ -46,7 +46,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestCoche.test_al_decelerar_un_coche_su_velocidad_disminuye">
+  <component name="RunManager" selected="JUnit.TestCoche.test_al_decelerar_un_coche_su_velocidad_no_puede_ser_menor_que_cero">
     <configuration name="TestCoche.test_al_acelerar_un_coche_su_velocidad_aumenta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TDD Practica Coche" />
       <option name="PACKAGE_NAME" value="" />
@@ -77,6 +77,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestCoche.test_al_decelerar_un_coche_su_velocidad_no_puede_ser_menor_que_cero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDD Practica Coche" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCoche" />
+      <option name="METHOD_NAME" value="test_al_decelerar_un_coche_su_velocidad_no_puede_ser_menor_que_cero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestCoche.test_crear_coche" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TDD Practica Coche" />
       <option name="PACKAGE_NAME" value="" />
@@ -89,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestCoche.test_al_decelerar_un_coche_su_velocidad_no_puede_ser_menor_que_cero" />
         <item itemvalue="JUnit.TestCoche.test_al_decelerar_un_coche_su_velocidad_disminuye" />
         <item itemvalue="JUnit.TestCoche.test_al_acelerar_un_coche_su_velocidad_aumenta" />
         <item itemvalue="JUnit.TestCoche.test_al_crear_coche_su_velocidad_es_cero" />
@@ -104,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680431904308</updated>
-      <workItem from="1680431906035" duration="1539000" />
+      <workItem from="1680431906035" duration="1986000" />
     </task>
     <servers />
   </component>
