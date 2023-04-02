@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74dd8750-6248-4ee4-927c-67cf3f90f789" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/TestCoche.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/TestCoche.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coche.java" afterDir="false" />
     </list>
@@ -47,7 +46,17 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestCoche.test_al_crear_coche_su_velocidad_es_cero">
+  <component name="RunManager" selected="JUnit.TestCoche.test_al_acelerar_un_coche_su_velocidad_aumenta">
+    <configuration name="TestCoche.test_al_acelerar_un_coche_su_velocidad_aumenta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDD Practica Coche" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCoche" />
+      <option name="METHOD_NAME" value="test_al_acelerar_un_coche_su_velocidad_aumenta" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestCoche.test_al_crear_coche_su_velocidad_es_cero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TDD Practica Coche" />
       <option name="PACKAGE_NAME" value="" />
@@ -70,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestCoche.test_al_acelerar_un_coche_su_velocidad_aumenta" />
         <item itemvalue="JUnit.TestCoche.test_al_crear_coche_su_velocidad_es_cero" />
         <item itemvalue="JUnit.TestCoche.test_crear_coche" />
       </list>
@@ -83,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680431904308</updated>
-      <workItem from="1680431906035" duration="1105000" />
+      <workItem from="1680431906035" duration="1539000" />
     </task>
     <servers />
   </component>
