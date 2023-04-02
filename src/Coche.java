@@ -1,12 +1,12 @@
 public class Coche {
-    public int velocidad;
+    public int velocidad_Sandra_Saez;
 
-    public void acelerar(int aceleracion) {
-        velocidad += aceleracion;
+    public void acelerar_Sandra_Saez(int aceleracion) {
+        velocidad_Sandra_Saez += aceleracion;
     }
 
-    public void decelerar(int deceleracion) {
-        velocidad -= deceleracion;
-        if (velocidad < 0) velocidad = 0;
+    public void decelerar_Sandra_saez(int deceleracion) {
+        velocidad_Sandra_Saez -= deceleracion;
+        if (velocidad_Sandra_Saez < 0) velocidad_Sandra_Saez = 0;
     }
 }
